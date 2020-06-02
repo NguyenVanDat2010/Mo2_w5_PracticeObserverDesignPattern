@@ -5,7 +5,12 @@ public class BinObserver extends Observer{
         this.subject = subject;
         this.subject.add(this);
     }
+<<<<<<< HEAD
     // day la comment moi
+=======
+    //jhdfsadjfljkasdldkfj
+    //kdfjkfsafkljlaksjdflk
+>>>>>>> master
 
     @Override
     public void update() {
