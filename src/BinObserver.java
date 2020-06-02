@@ -5,6 +5,8 @@ public class BinObserver extends Observer{
         this.subject = subject;
         this.subject.add(this);
     }
+    //jhdfsadjfljkasdldkfj
+    //kdfjkfsafkljlaksjdflk
 
     @Override
     public void update() {
