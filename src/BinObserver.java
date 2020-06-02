@@ -7,6 +7,8 @@ public class BinObserver extends Observer{
     }
     //jhdfsadjfljkasdldkfj
     //kdfjkfsafkljlaksjdflk
+    
+    //sua master
 
     @Override
     public void update() {
